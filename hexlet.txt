@@ -1,1 +1,3 @@
 Hello Hexlet!
+Add to file'\r\n' secondary
+Add to file $'\r\n' secondary
